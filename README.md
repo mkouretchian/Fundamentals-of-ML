@@ -1,5 +1,5 @@
 # Fundamentals-of-ML
-This repo is for projects our team have done in Fundamentals of ML Fall 2018 at UF. 
+This repo is for projects we have done in Fundamentals of ML Fall 2018 at UF. 
 
 
 # Handwritten Character Recognition:
